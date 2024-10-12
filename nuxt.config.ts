@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   modules: ["usebootstrap"],
   app: {
     head: {
-      title: "My Erp Nuxt App",
+      title: "My ERP Nuxt App",
       meta: [
         { charset: "utf-8" },
         { name: "viewport", content: "width=device-width, initial-scale=1" },
